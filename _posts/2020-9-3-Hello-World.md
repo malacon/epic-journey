@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Basic JavaScript-rendered Hello World
+published: true
 ---
 
 You can simply use Javascript in order to add any HTML to the DOM and render a
